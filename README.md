@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm YE Haowen(叶皓文), Wayne
 
-- A Research Postgraduate student (MPhil) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)
-- Graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)
+- A Research Postgraduate student (MPhil) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), [IMCL](https://www4.comp.polyu.edu.hk/~labimcl/) Lab, supervised by [Prof. CAO Jiannong](https://www4.comp.polyu.edu.hk/~csjcao/).
+- Graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) with First Honors.
   - **Major in [Computer Science](https://www.polyu.edu.hk/comp/)**;
   - Minor in [Financial Services and Institutions](https://www.polyu.edu.hk/af/study/undergraduate-programmes/minor-programme-in-financial-services-and-institutions/);
 - The founder and author of [eshanwu](https://eshanwu.cn/);
